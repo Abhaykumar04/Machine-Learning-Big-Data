@@ -55,7 +55,6 @@ cd machine-learning-with-big-data
 
 If you're new to machine learning or Apache Spark, I recommend familiarizing yourself with the basics before diving into the notebooks. Here are some helpful resources:
 
-- [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
 - [Apache Spark Documentation](https://spark.apache.org/documentation.html)
 
 ## Contributing
